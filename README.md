@@ -59,5 +59,5 @@ The goal of this project is to explore patterns and insights from the top Data S
 ## Usage
 
 1. Clone the repository.
-2. Open `YouTube_API_EDA.ipynb` in Jupyter or Colab.
+2. Open `youtube_data_api_eda.ipynb` in Jupyter or Colab.
 3. Run the notebook sequentially to fetch data, preprocess, and visualize insights.
